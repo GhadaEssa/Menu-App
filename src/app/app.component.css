@@ -1,0 +1,16 @@
+ 
+.my-bg{
+  background-color: #f5ece2;
+}
+ 
+* {
+  font-family: "Cairo", sans-serif;
+  }
+  
+  .bg-custom-brown {
+    background-color: #bb9064;
+    opacity: 1;  
+  }
+  .text-brown {
+    color:#4E1D0F;  
+  }
